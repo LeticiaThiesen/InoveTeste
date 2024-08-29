@@ -4,3 +4,5 @@ Trata-se de um trabalho resultante do aprendizado adquirido no curso "Automaçã
 Com base nos conhecimentos obtidos e na experiência prévia em automação de testes no meu ambiente de trabalho, implementei neste projeto um gerador de dados utilizando a biblioteca Bogus, 
 disponível no Visual Studio. Os dados gerados são utilizados para testes automatizados, como criação de cadastros e preenchimento de formulários.
 
+Também são realizados testes de validação de campos obrigatórios e do layout da página. 
+
